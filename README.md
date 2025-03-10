@@ -1,4 +1,8 @@
-**Machine Learning Repository**
+# 🚀 Machine Learning
+
+![web](https://github.com/user-attachments/assets/567b9e27-9458-485b-964c-56a459331089)
+
+
 
 Welcome to the **Machine Learning Repository**, a comprehensive collection of resources covering the entire workflow of Machine Learning from scratch. This repository serves as a structured learning path, providing theoretical concepts, hands-on coding examples, and real-world applications.
 
